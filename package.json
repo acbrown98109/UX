@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/acbrown98109/UX",
+  "homepage": "https://acbrown98109.github.io/UX",
   "scripts": {
   "dev": "vite",
   "build": "vite build",
